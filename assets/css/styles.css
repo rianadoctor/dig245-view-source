@@ -1,2 +1,912 @@
 
 /* css */
+
+.background{
+    background-color: rgb(236, 216, 179);
+}
+
+.Title{
+    color: black;
+    text-shadow: 2px 2px orange;
+}
+.Basketball_top{
+    width: 20%;
+    height: 2%;
+    position: absolute;
+    left: 35%;
+    top: 0.3%;
+    background-color: orange;
+    opacity: 25% ;
+}
+
+
+.side_1{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    left: 30%;
+    top: 1.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+
+}
+
+
+.side_1_opp{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    right: 40%;
+    top: 1.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_2{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    left: 25.1%;
+    top: 6.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_2_opp{
+    width: 6%;
+    height: 5%;
+    position: absolute;
+    right: 34.5%;
+    top: 6.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+
+.side_3{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 23.1%;
+    top: 11.9%;
+    background-color: orange;
+    opacity: 25% ;
+    
+
+}
+
+
+.side_3_opp{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 33%;
+    top: 11.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_4{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 21.1%;
+    top: 16.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_4_opp{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 31%;
+    top: 16.9%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_5{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    left: 19.1%;
+    top: 21.8%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_5_opp{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    right: 29%;
+    top: 21.8%;
+    background-color: orange;
+    opacity: 25%;
+}
+
+
+.side_6{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    left: 17.1%;
+    top: 31.6%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_6_opp{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    right: 27%;
+    top: 31.6%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_7{
+    width: 1%;
+    height: 18%;
+    position: absolute;
+    left: 16.1%;
+    top: 41.5%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_7_opp{
+    width: 1%;
+    height: 18%;
+    position: absolute;
+    right: 26%;
+    top: 41.5%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_8{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    left: 17%;
+    top: 59%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_8_opp{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    right: 27%;
+    top: 59%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_9{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    left: 19%;
+    top: 68%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_9_opp{
+    width: 2%;
+    height: 10%;
+    position: absolute;
+    right: 29%;
+    top: 68%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_10{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 21%;
+    top: 76%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_10_opp{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 30.9%;
+    top: 76%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_11{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 23%;
+    top: 80%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_11_opp{
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 32.96%;
+    top: 80%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_12{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    left: 24.9%;
+    top: 84%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+.side_12_opp{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    right: 35%;
+    top: 84%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_13{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    left: 30%;
+    top: 89%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.side_13_opp{
+    width: 5%;
+    height: 5%;
+    position: absolute;
+    right: 40%;
+    top: 89%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+
+.Basketball_bottom{
+    width: 20%;
+    height: 3%;
+    position: absolute;
+    left: 35%;
+    top: 93.8%;
+    background-color: orange;
+    opacity: 25% ;
+
+}
+
+
+.mid_vertical{
+    background-color: black;
+    width: 2%;
+    height: 91.5%;
+    position: absolute;
+    left: 44%;
+    bottom: 6.2%;
+
+}
+
+
+
+.mid_horizontal{
+    background-color: black;
+    width: 55.98%;
+    height: 3.5%;
+    position: absolute;
+    left: 17%;
+    bottom: 50%;
+
+}
+
+
+.inline_side1{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 23.1%;
+    top: 21.9%;
+    
+}
+
+.inline_side1_opp{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 33%;
+    top: 21.9%;
+    
+}
+
+.inline_side2{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 25%;
+    top: 26.9%;
+    
+}
+
+.inline_side2_opp{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 34.9%;
+    top: 26.9%;
+    
+}
+
+.inline_side3{
+    background-color: black;
+    width: 2%;
+    height: 7%;
+    position: absolute;
+    left: 27%;
+    top: 31.8%;
+    
+}
+
+.inline_side3_opp{
+    background-color: black;
+    width: 2%;
+    height: 7%;
+    position: absolute;
+    right: 36.9%;
+    top: 31.8%;
+    
+}
+
+.inline_side4{
+    background-color: black;
+    width: 2%;
+    height: 25%;
+    position: absolute;
+    left: 29%;
+    top: 38%;
+    
+}
+
+.inline_side4_opp{
+    background-color: black;
+    width: 2%;
+    height: 25%;
+    position: absolute;
+    right: 38.9%;
+    top: 38%;
+    
+}
+
+.inline_side5{
+    background-color: black;
+    width: 2%;
+    height: 7%;
+    position: absolute;
+    left: 27%;
+    top: 62%;
+    
+}
+
+.inline_side5_opp{
+    background-color: black;
+    width: 2%;
+    height: 7%;
+    position: absolute;
+    right: 36.9%;
+    top: 62%;
+    
+}
+
+.inline_side6{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 25%;
+    top: 68%;
+    
+}
+
+.inline_side6_opp{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 34.9%;
+    top: 68%;
+    
+}
+
+.inline_side7{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    left: 23%;
+    top: 72.9%;
+    
+}
+
+.inline_side7_opp{
+    background-color: black;
+    width: 2%;
+    height: 5%;
+    position: absolute;
+    right: 32.9%;
+    top: 72.9%;
+}
+
+
+.body1{
+    position: absolute;
+    top: 37%;
+    left: 30%;
+    font-size: 7px;
+    color:peru;
+
+
+}
+
+.body2{
+    position: absolute;
+    top: 6%;
+    left: 25%;
+    font-size: 35px;
+    color: rgb(225, 124, 0);
+}
+
+.body3{
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    font-size: 7px;
+    color: orange;
+
+}
+
+.body4{
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 9px;
+    color:peru;
+
+
+
+}
+
+.body5{
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    font-size: 8px;
+    color: darkorange;
+
+}
+
+.body6{
+    position: absolute;
+    top: 6%;
+    left: 55%;
+    font-size: 5px;
+    color: darkorange;
+
+}
+
+.body7{
+    position: absolute;
+    top: 6%;
+    left: 60%;
+    font-size: 5px;
+    color:peru;
+
+
+}
+
+.body8{
+    position: absolute;
+    top: 6%;
+    left: 25%;
+    font-size: 10px;
+    color: darkgoldenrod;
+
+}
+
+.body9{
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    font-size: 5px;
+    color: darkorange;
+
+}
+
+.body10{
+    position: absolute;
+    top: 15%;
+    left: 21%;
+    font-size: 15px;
+
+}
+
+
+.body11{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    font-size: 5px;
+    color: darkorange;
+
+}
+
+.body12{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    font-size: 12px;
+    color: sandybrown;
+
+}
+
+.body13{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    font-size: 5px;
+    color: darkorange;
+
+}
+
+.body14{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    font-size: 5px;
+    color: sandybrown;
+
+}
+
+.body15{
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    font-size: 5px;
+    color: darkgoldenrod;
+
+}
+
+.body16{
+    position: absolute;
+    top: 6%;
+    left: 40%;
+    font-size: 18px;
+    color:peru;
+
+    
+}
+
+.body17{
+    position: absolute;
+    top: 22%;
+    left: 30%;
+    font-size: 5px;
+    color: sandybrown;
+    
+}
+
+.body18{
+    position: absolute;
+    top: 23%;
+    left: 35%;
+    font-size: 5px;
+    
+}
+
+.body19{
+    position: absolute;
+    top: 5%;
+    left: 40%;
+    font-size: 5px;
+    color: orange;
+    
+}
+
+.body20{
+    position: absolute;
+    top: 22%;
+    left: 64%;
+    font-size: 5px;
+    color: darkgoldenrod;
+    
+}
+
+
+.body21{
+    position: absolute;
+    top: 24%;
+    left: 21%;
+    font-size: 7px;
+    color: sandybrown;
+    
+}
+
+
+.body22{
+    position: absolute;
+    top: 24%;
+    left: 67%;
+    font-size: 4px;
+    color: darkorange;
+    
+}
+
+.body23{
+    position: absolute;
+    top: 30%;
+    left: 19%;
+    font-size: 7px;
+    color: sandybrown;
+    
+}
+
+.body24{
+    position: absolute;
+    top: 35%;
+    left: 62%;
+    font-size: 7px;
+    
+}
+
+.body25{
+    position: absolute;
+    top: 60%;
+    left: 22%;
+    font-size: 25px;
+    color: darkgoldenrod;
+    
+}
+
+.body26{
+    position: absolute;
+    top: 76%;
+    left: 25%;
+    font-size: 10px;
+    
+}
+
+.body27{
+    position: absolute;
+    top: 75%;
+    left: 40%;
+    font-size: 15px;
+    color: darkgoldenrod;
+    
+}
+
+.body28{
+    position: absolute;
+    top: 87%;
+    left: 45%;
+    font-size: 8px;
+    
+}
+
+.body29{
+    position: absolute;
+    top: 85%;
+    left: 35%;
+    font-size: 12px;
+    color: darkgoldenrod;
+    
+}
+
+.body30{
+    position: absolute;
+    top: 41%;
+    left: 17%;
+    font-size: 10px;
+   
+    
+}
+
+.body31{
+    position: absolute;
+    top: 2%;
+    left: 35%;
+    font-size: 12px;
+    
+}
+
+.body32{
+    position: absolute;
+    top: 2%;
+    left: 30%;
+    font-size: 12px;
+    color: orange;
+    
+}
+
+.body33{
+    position: absolute;
+    top: 12%;
+    left: 48%;
+    font-size: 12px;
+    color: darkgoldenrod;
+    
+}
+
+.body34{
+    position: absolute;
+    top: 75%;
+    left: 35%;
+    font-size: 12px;
+}
+
+.body35{
+    position: absolute;
+    top: 73%;
+    left: 35%;
+    font-size: 12px;
+    color: darkgoldenrod;
+}
+
+.body36{
+    position: absolute;
+    top: 73%;
+    left: 30%;
+    font-size: 12px;
+    color: darkgoldenrod;
+}
+
+.body37{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    font-size: 15px;
+    color: orange;
+}
+
+.body38{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    font-size: 15px;
+    color: orange;
+}
+
+
+.body39{
+    position: absolute;
+    top: 42%;
+    left: 56%;
+    font-size: 15px;
+}
+
+.body40{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    font-size: 15px;
+    color: orange;
+}
+
+
+.body41{
+    position: absolute;
+    top: 46%;
+    left: 17%;
+    font-size: 15px;
+    color: darkgoldenrod;
+}
+
+
+.body42{
+    position: absolute;
+    top: 34%;
+    left: 17%;
+    font-size: 15px;
+    color: orange;
+}
+
+
+.body43{
+    position: absolute;
+    top: 34%;
+    left: 20%;
+    font-size: 55px;
+    color: peru;
+}
+
+.motion_1{
+    position: absolute;
+    top: 20%;
+    left: 75%;
+    font-size: 20px;
+    transform: rotate(-35deg);
+    color: black;
+    
+}
+
+.motion_2{
+    position: absolute;
+    top: 40%;
+    left: 75%;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.motion_3{
+    position: absolute;
+    top: 60%;
+    left: 75%;
+    font-size: 20px;
+    transform: rotate(35deg);
+    color: black;
+    
+}
